@@ -21,4 +21,4 @@ Our community is open to everyone around Kenya.
 ## 📇 Contact Us
 
 For queries & feedback, feel free to reach us out on [_contact.kenyadevs@protonmail.com_](mailto:contact.kenyadevs@protonmail.com)
-# .github
+
